@@ -1,0 +1,22 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+   }
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #c2a6e2;
+  color: #c9b8e4;
+}
+
+::-webkit-scrollbar {
+  background: #b191eb;
+  height: 8px;
+  width: 8px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #bb9bf0;
+}
